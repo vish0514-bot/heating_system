@@ -72,7 +72,7 @@ Built as a performance-focused API for a smart home solution. Designed to handle
 ## 👤 Author
 
 **Vishwa Shihora**  
-Ruby on Rails Developer at Dios Infotech  
+Ruby on Rails Developer
 GitHub: [@vish0514-bot](https://github.com/vish0514-bot)
 
 ---
