@@ -73,7 +73,6 @@ Built as a performance-focused API for a smart home solution. Designed to handle
 
 **Vishwa Shihora**  
 Ruby on Rails Developer
-GitHub: [@vish0514-bot](https://github.com/vish0514-bot)
 
 ---
 
